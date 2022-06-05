@@ -1,0 +1,16 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinSocket_1x04_P2.54mm_Vertical";1;"Serial";;;
+2;"C1,C2";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";2;"22pF";;;
+3;"U2,U1";"SOIC-8_5.23x5.23mm_P1.27mm";2;"24LC1025";;;
+4;"Y2";"Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering";1;"Crystal 16MHz";;;
+5;"U3";"SO-8_5.3x6.2mm_P1.27mm";1;"DS1337";;;
+6;"J4";"PinSocket_2x03_P2.54mm_Vertical";1;"ICSP";;;
+7;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"LED";;;
+8;"BT1";"PinHeader_1x02_P2.54mm_Vertical";1;"Battery 3V";;;
+9;"C3";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";1;"10uF";;;
+10;"J2";"PinSocket_1x09_P2.54mm_Vertical";1;"Digital Pins";;;
+11;"Y1";"Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm";1;"Crystal 32MHz";;;
+12;"R2";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"10KOhm";;;
+13;"J3";"PinSocket_1x04_P2.54mm_Vertical";1;"I2C";;;
+14;"U4";"TQFP-32_7x7mm";1;"ATMEGA328P-AU";;;
+15;"R1";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"330Ohm";;;

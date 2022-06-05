@@ -1,0 +1,23 @@
+### Module positions - created on Sun Jun  5 18:23:30 2022 ###
+### Printed by Pcbnew version (6.0.1)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                                                PosX       PosY       Rot  Side
+BT1       Battery_3V     PinHeader_1x02_P2.54mm_Vertical                     73.8469  -107.8250    0.0000  top
+C1        22pF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder         89.2000  -107.8000    0.0000  top
+C2        22pF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder         89.2000  -111.5000    0.0000  top
+C3        10uF           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder        108.0000  -116.7500    0.0000  top
+D1        LED            LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder      103.0550  -121.8450    0.0000  top
+J1        Serial         PinSocket_1x04_P2.54mm_Vertical                     83.3700  -103.7500   90.0000  top
+J2        Digital_Pins   PinSocket_1x09_P2.54mm_Vertical                     78.8500  -127.6500   90.0000  top
+J3        I2C            PinSocket_1x04_P2.54mm_Vertical                     98.8000  -103.7250   90.0000  top
+J4        ICSP           PinSocket_2x03_P2.54mm_Vertical                     76.3869  -116.9500    0.0000  top
+R1        330Ohm         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder        107.8000  -121.8000    0.0000  top
+R2        10KOhm         R_0805_2012Metric_Pad1.20x1.40mm_HandSolder         78.6000  -104.9000  180.0000  top
+U1        24LC1025       SOIC-8_5.23x5.23mm_P1.27mm                          97.9500  -110.1500    0.0000  top
+U2        24LC1025       SOIC-8_5.23x5.23mm_P1.27mm                          95.5000  -119.1500    0.0000  top
+U3        DS1337         SO-8_5.3x6.2mm_P1.27mm                             108.2500  -110.7000    0.0000  top
+U4        ATMEGA328P-AU  TQFP-32_7x7mm                                       85.1500  -119.2500    0.0000  top
+Y1        Crystal_32MHz  Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm   102.8500  -117.3000    0.0000  top
+Y2        Crystal_16MHz  Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering       81.4500  -108.7500    0.0000  top
+## End
