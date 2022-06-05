@@ -254,6 +254,23 @@
   )
 
 
+  (text "N4-Serial Connector" (at 87.63 57.15 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 17b5131d-bbf6-41cc-ad71-2bd1c66b9922)
+  )
+  (text "N6-GPIO Connector" (at 90.17 96.52 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 3ad201dc-b25c-421e-8268-4f6ea884a299)
+  )
+  (text "N5-I2C Connector\n" (at 115.57 55.88 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid 52c58c24-7fba-4eef-8679-dc20fad290eb)
+  )
+  (text "N7-SPI Connector\n" (at 120.65 97.79 180)
+    (effects (font (size 1.27 1.27)) (justify right bottom))
+    (uuid de7380d0-6856-4069-9bd6-ab8e4a749ce6)
+  )
+
   (hierarchical_label "TX" (shape output) (at 77.47 68.58 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 12d9f166-6d3a-48f3-8581-3de9af9fb9c4)
