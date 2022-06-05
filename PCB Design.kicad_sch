@@ -855,7 +855,6 @@
     )
   )
 
-
   (junction (at 215.9 77.47) (diameter 0) (color 0 0 0 0)
     (uuid 021e8049-24ff-4361-a24a-98c364fec377)
   )
@@ -904,11 +903,11 @@
 
   (no_connect (at 71.12 43.18) (uuid 2ea40e05-2b4f-4caf-acf4-373a20262518))
   (no_connect (at 149.86 68.58) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
-  (no_connect (at 149.86 71.12) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
-  (no_connect (at 149.86 86.36) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
-  (no_connect (at 149.86 88.9) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
-  (no_connect (at 149.86 106.68) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
-  (no_connect (at 149.86 111.76) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f52))
+  (no_connect (at 149.86 71.12) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f53))
+  (no_connect (at 149.86 86.36) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f54))
+  (no_connect (at 149.86 88.9) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f55))
+  (no_connect (at 149.86 106.68) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f56))
+  (no_connect (at 149.86 111.76) (uuid aad27202-6cac-4a1b-bd8d-bd845ee01f57))
 
   (wire (pts (xy 140.97 100.33) (xy 140.97 96.52))
     (stroke (width 0) (type default) (color 0 0 0 0))
